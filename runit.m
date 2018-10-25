@@ -6,7 +6,7 @@ function [] = run()
 
 global c
 
-% Model Parameters
+% 模型参数
 
 c.MAX_FIRMS = 3;
 c.START_FIRMS = 2;
